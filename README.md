@@ -6,7 +6,7 @@
 
 1.政府資料開放平台
 * 水產精品資料:https://data.gov.tw/dataset/6034
-農漁會年度百大農業精品好禮:https://data.gov.tw/dataset/24657
+*農漁會年度百大農業精品好禮:https://data.gov.tw/dataset/24657
 南投縣農特商家介紹(水果館):https://data.gov.tw/dataset/95028
 南投縣十大熱銷農產品:https://data.gov.tw/dataset/95030
 南投縣農特產品介紹(水果館):https://data.gov.tw/dataset/95038
