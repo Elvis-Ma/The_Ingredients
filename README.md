@@ -111,6 +111,16 @@
 
 食物浪費是刻不容緩的問題，我們希望透過本系統讓使用者輕鬆養成不浪費食材的好習慣，減少食物遭到浪費的情形。未來期許能和各大生鮮賣場合作，讓使用者在採購清單上新增品項時，系統預先建立好購買訂單，使用者就能一鍵送出到附近賣場，提供更簡便的消費模式。
 
-# Youtube連結
+## Youtube連結
+
 * https://youtu.be/S8cv9-FleDg
 * https://youtu.be/R7P-pXRvmnk
+
+## 食譜網站
+
+特別感謝各家食譜網站授權
+
+* 小蝶的小小廚房: https://asd77723.pixnet.net/blog
+* 小薛食譜: https://yoti.life/category/recipe/
+* 藍山嵐煙の蔬食廚房: https://suyu823.pixnet.net/blog
+* 力力隨意煮: https://rinrin1026.pixnet.net/blog#
